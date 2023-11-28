@@ -2,7 +2,7 @@
 
 ---
 
-### Insights inside My Projects!
+### Explore Insights inside My Projects!
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
