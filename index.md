@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [INSIGHTS DELIVERED TO DOORDASH USING EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
+[<img src="images/DD LinkedIn Picture.png"/>](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
