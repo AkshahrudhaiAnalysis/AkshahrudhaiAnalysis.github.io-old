@@ -15,8 +15,8 @@ Analysed a data set which is originally from a Brazilian delivery service named 
 This dataset is from **Massachusetts Education board** which consists of thousands of records. I acted as a Data Analyst and came up with useful findings helpful for Massachusetts Education board like: What schools are struggling the most? Which Districts need more focus on? and more. The Insights are driven using **TABLEAU**. Feel free to explore the [DashBoard](https://lnkd.in/eKDt8e_6). 
 
 ---
-#### [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS]()
-[<img src="images/BANKING SQL Project LinkedIn .png"/>]()
+#### [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS](https://www.linkedin.com/pulse/sql-made-banking-easier-world-bank-analysis-using-aksha-hrudhai-k-4unle%3FtrackingId=zL1c5Vn%252BQ7u1I5Br99%252BT3w%253D%253D/?trackingId=zL1c5Vn%2BQ7u1I5Br99%2BT3w%3D%3D)
+[<img src="images/BANKING SQL Project LinkedIn .png"/>](https://www.linkedin.com/pulse/sql-made-banking-easier-world-bank-analysis-using-aksha-hrudhai-k-4unle%3FtrackingId=zL1c5Vn%252BQ7u1I5Br99%252BT3w%253D%253D/?trackingId=zL1c5Vn%2BQ7u1I5Br99%2BT3w%3D%3D)
 A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
 
 ---
@@ -28,7 +28,7 @@ A **World Bank** data set from a group named **IDA** is analysed in this study w
 
 - [INSIGHTS DELIVERED TO DOORDASH Using EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 - [DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
-- [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS]()
+- [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS](https://www.linkedin.com/pulse/sql-made-banking-easier-world-bank-analysis-using-aksha-hrudhai-k-4unle%3FtrackingId=zL1c5Vn%252BQ7u1I5Br99%252BT3w%253D%253D/?trackingId=zL1c5Vn%2BQ7u1I5Br99%2BT3w%3D%3D)
 
 ---
 
