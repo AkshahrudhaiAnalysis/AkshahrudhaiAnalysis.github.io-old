@@ -4,18 +4,20 @@
 
 ### Explore Insights inside My Projects!
 
-#### [INSIGHTS DELIVERED TO DOORDASH Using EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
+#### [**INSIGHTS DELIVERED TO DOORDASH Using EXCEL**](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 [<img src="images/DD LinkedIn Picture.png"/>](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
-Analysed a data set which is originally from a Brazilian delivery service named ifood which is handled by DoorDash. This dataset consists of 2000+rows and 30 columns which was analysed to deliver valuable insights like: Total revenue of DoorDash? How many new customers were signing-up monthly? What was the most succesful campaign by DoorDash? and more. I acted as a Data Analyst and came up with a few business solutions using EXCEL. Kindly take same time and go throught my findings!. 
+Analysed a data set which is originally from a Brazilian delivery service named ifood which is handled by **DoorDash**. This dataset consists of 2000+rows and 30 columns which was analysed to deliver valuable insights like: Total revenue of DoorDash? How many new customers were signing-up monthly? What was the most succesful campaign by DoorDash? and more. I acted as a Data Analyst and came up with a few business solutions using **EXCEL**. Kindly take same time and go throught my findings!. 
 
 
 ---
-#### [DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
+#### [**DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU**](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 [<img src="images/Massachusetts image.png"/>](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
-This dataset is from Massachusetts Education board which consists of thousands of records. I acted as a Data Analyst and came up with useful findings helpful for Massachusetts Education board like: What schools are struggling the most? Which Districts need more focus on? and more. The Insights are driven using TABLEAU. Feel free to explore the [DashBoard](https://lnkd.in/eKDt8e_6). 
+This dataset is from **Massachusetts Education board** which consists of thousands of records. I acted as a Data Analyst and came up with useful findings helpful for Massachusetts Education board like: What schools are struggling the most? Which Districts need more focus on? and more. The Insights are driven using **TABLEAU**. Feel free to explore the [DashBoard](https://lnkd.in/eKDt8e_6). 
 
 ---
-#### More Projects Coming soon!
+#### [**SQL MADE BANKING EASIER:WORLD BANK ANALYSIS**]()
+[<img src="images/DD LinkedIn Picture.png"/>]()
+A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
  
 ---
 
@@ -23,7 +25,7 @@ This dataset is from Massachusetts Education board which consists of thousands o
 
 - [INSIGHTS DELIVERED TO DOORDASH Using EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 - [DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
-- [SQL Made BANKING EASIER: Upcoming]()
+- [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS]()
 
 ---
 
