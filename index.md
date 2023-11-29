@@ -18,6 +18,9 @@ This dataset is from **Massachusetts Education board** which consists of thousan
 #### [**SQL MADE BANKING EASIER:WORLD BANK ANALYSIS**]()
 [<img src="images/BANKING SQL Project LinkedIn .png"/>]()
 A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
+
+---
+More Projects Coming Soon!
  
 ---
 
