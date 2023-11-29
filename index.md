@@ -13,8 +13,10 @@ Analysed a data set which is originally from a Brazilian delivery service named 
 #### [DATA EXPLORATION and INSIGHTS On MASSACHUSSETS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 This dataset is from Massachussets Education board which consists of thousands of records. I acted as a Data Analyst and came up with useful findings helpful for Massachussets Education board like: What schools are struggling the most? Which Districts need more focus on? and more. The Insights are driven using TABLEAU. Feel free to explore the [DashBoard](https://lnkd.in/eKDt8e_6). 
- 
 
+---
+#### More Projects Coming soon!
+ 
 ---
 
 ### My Projects
