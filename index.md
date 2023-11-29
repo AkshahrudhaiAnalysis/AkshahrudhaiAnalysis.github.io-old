@@ -19,7 +19,7 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### My Projects
 
 - [INSIGHTS DELIVERED TO DOORDASH Using EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 - [DATA EXPLORATION and INSIGHTS On MASSACHUSSETS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
