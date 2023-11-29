@@ -6,7 +6,9 @@
 
 #### [INSIGHTS DELIVERED TO DOORDASH Using EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 [<img src="images/DD LinkedIn Picture.png"/>](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+Analysed a data set which is originally from a Brazilian delivery service named ifood which is handled by DoorDash. This dataset consists 
+of 2000+rows and 30 columns which was analysed to deliver valuable insights. I acted as a Data Analyst and came up with a few business
+solutions. Kindly take same time and go throught my findings!. 
 
 
 ---
