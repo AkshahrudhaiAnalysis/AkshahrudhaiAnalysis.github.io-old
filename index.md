@@ -1,5 +1,5 @@
 # Welcome to Aksha's Data Portfolio
-[<img src="images/DD LinkedIn Picture.png"/>]
+<img src="images/DD LinkedIn Picture.png"/>
 ---
 
 ### Explore Insights inside My Projects!
