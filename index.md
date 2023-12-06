@@ -5,6 +5,11 @@
 
 ### Explore Insights inside My Projects!
 
+#### [SQL CUT DOWN THE COST IN HEALTHCARE: HEALTHCARE ANALYSIS USING SQL](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
+[<img src="images/Healthcare project LinekdIn pic.png"/>](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
+A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
+
+---
 #### [DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 [<img src="images/Massachusetts image.png"/>](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 This dataset is from **Massachusetts Education board** which consists of thousands of records. I acted as a Data Analyst and came up with useful findings helpful for Massachusetts Education board like: What schools are struggling the most? Which Districts need more focus on? and more. The Insights are driven using **TABLEAU**. Feel free to explore the [DashBoard](https://lnkd.in/eKDt8e_6). 
@@ -19,11 +24,6 @@ Analysed a data set which is originally from a Brazilian delivery service named 
 [<img src="images/BANKING SQL Project LinkedIn .png"/>](https://www.linkedin.com/pulse/sql-made-banking-easier-world-bank-analysis-using-aksha-hrudhai-k-4unle%3FtrackingId=zL1c5Vn%252BQ7u1I5Br99%252BT3w%253D%253D/?trackingId=zL1c5Vn%2BQ7u1I5Br99%2BT3w%3D%3D)
 A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
 
----
-#### [SQL CUT DOWN THE COST IN HEALTHCARE: HEALTHCARE ANALYSIS USING SQL](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
-[<img src="images/Healthcare project LinekdIn pic.png"/>](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
-A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
- 
 ---
 
 ### My Projects
