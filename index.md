@@ -21,7 +21,7 @@ A **World Bank** data set from a group named **IDA** is analysed in this study w
 
 ---
 #### [SQL Cut Down the Cost in HealthCare: HealthCare Analysis Using SQL](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
-[<img src="images/BANKING SQL Project LinkedIn .png"/>](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
+[<img src="images/Healthcare project LinekdIn pic.png"/>](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
 A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
  
 ---
