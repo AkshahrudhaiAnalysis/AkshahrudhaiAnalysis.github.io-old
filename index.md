@@ -31,6 +31,7 @@ A **World Bank** data set from a group named **IDA** is analysed in this study w
 - [INSIGHTS DELIVERED TO DOORDASH Using EXCEL](https://www.linkedin.com/pulse/delivering-insights-doordash-using-excel-akshahrudhai-k-m8dye%3FtrackingId=W7J0e9NrSGiaHbNOnyFWng%253D%253D/?trackingId=W7J0e9NrSGiaHbNOnyFWng%3D%3D)
 - [DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 - [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS](https://www.linkedin.com/pulse/sql-made-banking-easier-world-bank-analysis-using-aksha-hrudhai-k-4unle%3FtrackingId=zL1c5Vn%252BQ7u1I5Br99%252BT3w%253D%253D/?trackingId=zL1c5Vn%2BQ7u1I5Br99%2BT3w%3D%3D)
+- [SQL Cut Down the Cost in HealthCare: HealthCare Analysis Using SQL](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
 
 ---
 
