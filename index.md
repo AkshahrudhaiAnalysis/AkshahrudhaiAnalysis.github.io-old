@@ -25,8 +25,8 @@ Analysed a data set which is originally from a Brazilian delivery service named 
 A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
 
 ---
-#### [𝐍𝐁𝐀🏀𝟐𝟎𝟐𝟐-𝟐𝟎𝟐𝟑 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐓𝐞𝐚𝐦𝐬, 𝐏𝐥𝐚𝐲𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧𝐬](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
-[<img src="images/BANKING SQL Project LinkedIn .png"/>](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
+#### [𝐍𝐁𝐀🏀𝟐𝟎𝟐𝟐-𝟐𝟎𝟐𝟑 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐓𝐞𝐚𝐦𝐬, 𝐏𝐥𝐚𝐲𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧𝐬 Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
+[<img src="images/Git Nba.png"/>](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
 A **World Bank** data set from a group named **IDA** is analysed in this study which consists of 1.12+ millions of rows and 30 columns. The Ad-hoc questions here are: Number of Transactions, Number of projects, Most owing amount, Most repaid amount country wise and more. I acted as a Data Analyst and Structured **SQL** solution to answer the Ad-hoc questions. Kindly take same time and go throught my findings!. 
 
 ---
@@ -37,6 +37,7 @@ A **World Bank** data set from a group named **IDA** is analysed in this study w
 - [DATA EXPLORATION and INSIGHTS On MASSACHUSETTS EDUCATION Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_data-exploration-and-insights-on-massachusetts-activity-7133103528624967682-WdaR?utm_source=share&utm_medium=member_desktop)
 - [SQL MADE BANKING EASIER:WORLD BANK ANALYSIS](https://www.linkedin.com/pulse/sql-made-banking-easier-world-bank-analysis-using-aksha-hrudhai-k-4unle%3FtrackingId=zL1c5Vn%252BQ7u1I5Br99%252BT3w%253D%253D/?trackingId=zL1c5Vn%2BQ7u1I5Br99%2BT3w%3D%3D)
 - [SQL CUT DOWN THE COST IN HEALTHCARE: HEALTHCARE ANALYSIS USING SQL](https://www.linkedin.com/pulse/sql-cut-down-cost-healthcare-analysis-using-aksha-hrudhai-k-3y2ge%3FtrackingId=OCIlJfPxSGODYGOYsm9J0A%253D%253D/?trackingId=OCIlJfPxSGODYGOYsm9J0A%3D%3D)
+- [𝐍𝐁𝐀🏀𝟐𝟎𝟐𝟐-𝟐𝟎𝟐𝟑 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐓𝐞𝐚𝐦𝐬, 𝐏𝐥𝐚𝐲𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧𝐬 Using TABLEAU](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
 
 ---
 
