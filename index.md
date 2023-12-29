@@ -5,7 +5,7 @@
 
 ### Explore Insights inside My Projects!
 
-#### [**𝐍𝐁𝐀🏀𝟐𝟎𝟐𝟐-𝟐𝟎𝟐𝟑 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐓𝐞𝐚𝐦𝐬, 𝐏𝐥𝐚𝐲𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧𝐬 Using TABLEAU**](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
+#### [**NBA🏀𝟐𝟎𝟐𝟐-𝟐𝟎𝟐𝟑 Analysis: Exploring Teams, Players and Positions Using TABLEAU**](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
 [<img src="images/Git Nba.png"/>](https://www.linkedin.com/posts/aksha-hrudhai_%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F-activity-7146253003501563904-h4j1?utm_source=share&utm_medium=member_desktop)
 A **NBA22-23(BasketBall)** data set is analysed in this study which consists of 680 rows and 31 columns. The key findings here are: Player Stats:**Bubble Plot**, Team Stats:**Stacked Barchart**, 3 Points Percentage:**Heat Map** and Player Assists:**Tree Map**. I acted as a **Sports Data Analyst** and visualized the key findings using **TABLEAU**. Kindly take same time and go throught my findings!. 
 
